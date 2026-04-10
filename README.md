@@ -10,6 +10,7 @@ group14.sites.hscoscdn10.net. 295 IN	A	_199.60.103.225_
 group14.sites.hscoscdn10.net. 295 IN	A	_199.60.103.31_
 
 **199.60.103.225** et **199.60.103.31** sont les **adresses Ipv4** du site de la **Wild Code Shool**
+
 **Schoolhubspot.net** et **hscoscdn10.net** semblent être les **hébergeurs** du site de la **Wild Code School**
 
 -----------------------------------------------------------------------
